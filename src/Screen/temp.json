@@ -1,0 +1,181 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJowzNE98iXTkRMdgCdfRb6ig",
+      "types": ["establishment", "point_of_interest"]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJyRecKUgjXTkRJtKoeenZi3w",
+      "types": ["establishment", "point_of_interest"]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 24.3396538,
+          "lng": 72.8908532
+        },
+        "southwest": {
+          "lat": 24.3311123,
+          "lng": 72.87614929999999
+        }
+      },
+      "copyrights": "Map data ©2023",
+      "legs": [
+        {
+          "distance": {
+            "text": "2.4 km",
+            "value": 2431
+          },
+          "duration": {
+            "text": "6 mins",
+            "value": 354
+          },
+          "end_address": "8VJQ+FVQ, Chikhla, Gujarat 385110, India",
+          "end_location": {
+            "lat": 24.3319626,
+            "lng": 72.8908532
+          },
+          "start_address": "8VQH+RJW, Koteshvar, Gujarat 385110, India",
+          "start_location": {
+            "lat": 24.339614,
+            "lng": 72.8780604
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "0.8 km",
+                "value": 790
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 140
+              },
+              "end_location": {
+                "lat": 24.3349332,
+                "lng": 72.8767218
+              },
+              "html_instructions": "Head \u003cb\u003esouthwest\u003c/b\u003e toward \u003cb\u003eAmbaji Hwy\u003c/b\u003e",
+              "polyline": {
+                "points": "qypsC{~x{Lj@h@ZfDeAlBI|@dAAbBo@fAO\\Dj@A`@A\\Bb@FP@ZBJ@P@RALCLGtAq@h@]NMTOJKFCFCXC\\MBAJAPBD@HD^`@NPPPLFNBF?"
+              },
+              "start_location": {
+                "lat": 24.339614,
+                "lng": 72.8780604
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "1.0 km",
+                "value": 1016
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 97
+              },
+              "end_location": {
+                "lat": 24.3311596,
+                "lng": 72.8857838
+              },
+              "html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eAmbaji Hwy\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Chavda Arun (on the left in 450m)\u003c/div\u003e",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "i|osCovx{LEQAIAK?KB]Lu@@EXsATq@j@aBb@oA\\_AdBcFp@kBbAwCHUtBeGL]rB{FVs@z@gCVs@"
+              },
+              "start_location": {
+                "lat": 24.3349332,
+                "lng": 72.8767218
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "75 m",
+                "value": 75
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 16
+              },
+              "end_location": {
+                "lat": 24.33172,
+                "lng": 72.88616549999999
+              },
+              "html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "wdosCcoz{LSIWGQGKIOOIKKM"
+              },
+              "start_location": {
+                "lat": 24.3311596,
+                "lng": 72.8857838
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.4 km",
+                "value": 414
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 77
+              },
+              "end_location": {
+                "lat": 24.3311123,
+                "lng": 72.8900682
+              },
+              "html_instructions": "Turn \u003cb\u003eright\u003c/b\u003e",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "ghosCqqz{LAUASE]AUBc@AO?GCGEMAI?GBU?A?e@@ULg@D[Ji@Li@BOBQBk@Cg@?O?QBOFOHW@GFYFUN]Zw@"
+              },
+              "start_location": {
+                "lat": 24.33172,
+                "lng": 72.88616549999999
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 136
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 24
+              },
+              "end_location": {
+                "lat": 24.3319626,
+                "lng": 72.8908532
+              },
+              "html_instructions": "Slight \u003cb\u003eleft\u003c/b\u003e at Ambaji Stone Decor Pvt. Ltd\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "mdosC}i{{LAa@CSIQIIOEMCQAOGAASIYO]WAA"
+              },
+              "start_location": {
+                "lat": 24.3311123,
+                "lng": 72.8900682
+              },
+              "travel_mode": "DRIVING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "qypsC{~x{Lj@h@ZfDeAlBI|@dAAbBo@fAO\\DlAC`AJjAH`@EbBy@x@k@`@[NGXC\\MNCVDh@f@`@b@\\JF?EQCUBi@N{@XsATq@nAqDbCcHtF_PtEuMVs@SIi@Oq@s@Ci@Gs@@s@COGWB]?g@N}@b@_CF}@Cw@Ba@Pg@Ha@Vs@Zw@Aa@CSIQIIOE_@E_Ac@_@Y"
+      },
+      "summary": "Ambaji Hwy",
+      "warnings": [],
+      "waypoint_order": []
+    }
+  ],
+  "status": "OK"
+}
